@@ -40,7 +40,7 @@
 		<div data-role="footer">
 			
 			<a target="_blank" href="/api.jsp">
-				<img src="/images/swagger.png">
+				<img src="/images/swagger.png"  width="40" height="40">
 				Documentacion Api
 			</a>
 		</div>
