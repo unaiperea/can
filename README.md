@@ -16,3 +16,5 @@ Preparado para subir en OpenShift
 Configuración:
 Para montar proyecto en otro servidor cambiar conexión Base Datos:
 src/main/resources/hibernate.cfg.xml => Conexión Base Datos
+
+<h3>Es lo mismo que restHibernate (menos bonito hecho) pero organizado para subir a OpenShift</h3>
